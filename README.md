@@ -11,7 +11,7 @@ If you're looking to unlock higher FPS in Roblox, run multiple Roblox instances 
 ---
 
 <img width="583" height="343" alt="aa0af72e-2792-4155-b0f1-579f8cd15046" src="https://github.com/user-attachments/assets/56d5c4f0-da02-405d-90b4-2c9001b1921a" />
-<img width="1256" height="807" alt="964b9ddc-0300-4359-be9a-50545444cca6" src="https://github.com/user-attachments/assets/df83390b-51f3-4fd0-8517-1f961ead240b" />
+<img width="1489" height="858" alt="d90e9434-67a5-401d-bd34-edecf9e8e502" src="https://github.com/user-attachments/assets/57be4b11-0b20-43d9-86e8-5c9474f12f33" />
 
 
 
